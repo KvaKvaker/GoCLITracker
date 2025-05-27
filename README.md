@@ -12,7 +12,7 @@ cd cmd/tracker
 Run the following command to build and run the project:
 
 ```bash
-go build tracker
+go build
 ./tracker or ./tracker.exe # To see the list of available commands
 
 # To add a task
