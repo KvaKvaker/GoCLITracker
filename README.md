@@ -1,5 +1,7 @@
 # GO CLI Task Tracker
 
+This is a cli tracker written in golang, it can add, delete, change tasks, and also change task statuses
+
 ## How to run
 
 Clone the repository in you folder and run the following command:
